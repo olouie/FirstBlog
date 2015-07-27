@@ -1,0 +1,11 @@
+--2015-07-26 14:27:30--  https://bootstrap.pypa.io/ez_setup.py
+Resolving bootstrap.pypa.io... 199.27.79.175
+Connecting to bootstrap.pypa.io|199.27.79.175|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11434 (11K) [text/x-python]
+Saving to: 'ez_setup.py.1'
+
+     0K .......... .                                          100%  142M=0s
+
+2015-07-26 14:27:31 (142 MB/s) - 'ez_setup.py.1' saved [11434/11434]
+
